@@ -1,0 +1,10 @@
+.navbar-collapse {
+  flex-basis: 100%;
+  margin-left: 200px;
+  /* flex-grow: 1; */
+  align-items: center;
+  /* justify-content: right; */
+}
+.display {
+  display: flex;
+}
